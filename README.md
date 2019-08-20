@@ -1,2 +1,3 @@
 # my-world
-my first repository
+sucessfully pull and merge brances
+and finally deleted the branches
